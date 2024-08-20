@@ -1,0 +1,319 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "user1",
+      "password": "password123",
+      "lists": [
+        {
+          "id": 1,
+          "name": "Groceries",
+          "items": [
+            "Apples", "Bananas", "Carrots", "Milk", "Bread", "Eggs", "Cheese",
+            "Tomatoes", "Lettuce", "Chicken", "Rice", "Pasta", "Cereal", "Yogurt",
+            "Butter", "Juice", "Onions", "Garlic", "Potatoes", "Peppers"
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Office Supplies",
+          "items": [
+            "Notebooks", "Pens", "Stapler", "Paper Clips", "Highlighters", "Markers",
+            "Sticky Notes", "File Folders", "Envelopes", "Scissors", "Tape",
+            "Rubber Bands", "Desk Organizer", "Whiteboard", "Dry Erase Markers",
+            "Staples", "Binder Clips", "Post-It Notes", "Index Cards", "Push Pins"
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Cleaning Products",
+          "items": [
+            "Detergent", "Sponges", "Trash Bags", "Broom", "Mop", "Bucket",
+            "Glass Cleaner", "All-Purpose Cleaner", "Disinfectant Wipes", "Scrub Brushes",
+            "Toilet Bowl Cleaner", "Bleach", "Paper Towels", "Dusting Spray",
+            "Laundry Detergent", "Fabric Softener", "Air Freshener", "Dish Soap",
+            "Hand Soap", "Vacuum Bags"
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Electronics",
+          "items": [
+            "Laptop", "Smartphone", "Headphones", "Charger", "Mouse", "Keyboard",
+            "Monitor", "External Hard Drive", "USB Flash Drive", "Router", "Webcam",
+            "Printer", "Smartwatch", "Bluetooth Speaker", "Phone Case", "Screen Protector",
+            "Charging Cable", "Docking Station", "Power Bank", "Surge Protector"
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Books",
+          "items": [
+            "Novel", "Science Fiction", "Biography", "Cookbook", "Self-Help", "Mystery",
+            "Fantasy", "Historical Fiction", "Romance", "Non-Fiction", "Graphic Novel",
+            "Textbook", "Poetry", "Travel Guide", "Science Book", "Philosophy",
+            "Children's Book", "DIY Guide", "Reference Book"
+          ]
+        },
+        {
+          "id": 6,
+          "name": "Gardening Supplies",
+          "items": [
+            "Shovel", "Trowel", "Pruners", "Gloves", "Watering Can", "Garden Hose",
+            "Plant Pots", "Fertilizer", "Compost", "Soil", "Rake", "Hoe",
+            "Seed Packets", "Garden Fork", "Kneeling Pad", "Weeder", "Plant Labels",
+            "Garden Shears", "Sprinkler", "Mulch"
+          ]
+        },
+        {
+          "id": 7,
+          "name": "Pet Supplies",
+          "items": [
+            "Dog Food", "Cat Food", "Pet Bed", "Litter Box", "Cat Litter", "Pet Shampoo",
+            "Toys", "Leash", "Collar", "Treats", "Pet Carrier", "Grooming Brush",
+            "Pet Gate", "Feeding Bowls", "Pet House", "Dog Bed", "Bird Cage",
+            "Fish Tank", "Pet Cleaning Wipes", "Pet Medications"
+          ]
+        },
+        {
+          "id": 8,
+          "name": "Health & Wellness",
+          "items": [
+            "Vitamins", "Pain Reliever", "First Aid Kit", "Band-Aids", "Antiseptic",
+            "Cough Drops", "Thermometer", "Cough Syrup", "Allergy Medication",
+            "Cold Medicine", "Moisturizer", "Sunscreen", "Toothpaste", "Toothbrush",
+            "Shampoo", "Conditioner", "Body Wash", "Hand Sanitizer", "Eye Drops",
+            "Tissues"
+          ]
+        },
+        {
+          "id": 9,
+          "name": "Fitness",
+          "items": [
+            "Yoga Mat", "Dumbbells", "Resistance Bands", "Kettlebell", "Jump Rope",
+            "Exercise Ball", "Foam Roller", "Water Bottle", "Fitness Tracker",
+            "Gym Bag", "Sports Shoes", "Exercise Clothing", "Protein Powder",
+            "Towel", "Heart Rate Monitor", "Stretch Bands", "Bicycle", "Rowing Machine",
+            "Dumbbell Rack", "Exercise DVDs"
+          ]
+        },
+        {
+          "id": 10,
+          "name": "Kitchen Gadgets",
+          "items": [
+            "Blender", "Toaster", "Coffee Maker", "Microwave", "Food Processor",
+            "Electric Kettle", "Rice Cooker", "Slow Cooker", "Juicer", "Stand Mixer",
+            "Electric Can Opener", "Food Scale", "Grater", "Mandolin Slicer",
+            "Meat Thermometer", "Waffle Maker", "Pressure Cooker", "Bread Maker",
+            "Air Fryer"
+          ]
+        },
+        {
+          "id": 11,
+          "name": "Toys",
+          "items": [
+            "Action Figures", "Dolls", "Board Games", "Puzzle", "Lego Sets", "Play-Doh",
+            "Building Blocks", "Remote Control Cars", "Stuffed Animals", "Educational Toys",
+            "Art Supplies", "Outdoor Toys", "Musical Instruments", "Toy Trains", "Drones",
+            "Model Kits", "Card Games", "Sports Equipment", "Magic Sets", "Play Sets"
+          ]
+        },
+        {
+          "id": 12,
+          "name": "Office Furniture",
+          "items": [
+            "Desk", "Office Chair", "Bookshelf", "Filing Cabinet", "Desk Lamp",
+            "Printer Stand", "Office Organizer", "Couch", "Coffee Table", "Conference Table",
+            "Desk Chair Mat", "Whiteboard", "Ergonomic Chair", "Standing Desk",
+            "Drawer Organizers", "Cabinet", "Desk Accessories", "Wall Art", "Desk Divider",
+            "Chair Cushion"
+          ]
+        },
+        {
+          "id": 13,
+          "name": "Travel Essentials",
+          "items": [
+            "Suitcase", "Passport Holder", "Travel Pillow", "Luggage Tag", "Travel Toiletries",
+            "Travel Adapter", "Portable Charger", "Travel Blanket", "Reusable Water Bottle",
+            "Sunglasses", "Guidebook", "First Aid Kit", "Snacks", "Travel Umbrella",
+            "Maps", "Comfortable Shoes", "Travel Lock", "Toiletry Bag", "Hand Sanitizer",
+            "Travel Towel"
+          ]
+        },
+        {
+          "id": 14,
+          "name": "Arts & Crafts",
+          "items": [
+            "Acrylic Paints", "Paint Brushes", "Canvas", "Sketchbook", "Markers",
+            "Colored Pencils", "Glue", "Scissors", "Craft Paper", "Beads", "String",
+            "Craft Knives", "Watercolors", "Pastels", "Modeling Clay", "Easel", "Stencils",
+            "Craft Kits", "Fabric", "Sewing Kit"
+          ]
+        },
+        {
+          "id": 15,
+          "name": "Seasonal Decor",
+          "items": [
+            "Christmas Lights", "Halloween Pumpkins", "Easter Eggs", "Thanksgiving Centerpiece",
+            "Valentine's Day Cards", "Holiday Wreath", "Spring Flowers", "Summer Lanterns",
+            "Autumn Leaves", "Winter Blanket", "Holiday Tablecloth", "Decorative Pillows",
+            "Festive Banners", "Seasonal Candles", "Door Mats", "String Lights",
+            "Holiday Ornaments", "Garlands", "Window Clings", "Outdoor Decorations"
+          ]
+        },
+        {
+          "id": 16,
+          "name": "Personal Care",
+          "items": [
+            "Deodorant", "Shaving Cream", "Razor", "Body Lotion", "Hair Brush", "Hair Dryer",
+            "Nail Clippers", "Hand Cream", "Toothbrush", "Toothpaste", "Face Wash",
+            "Hair Gel", "Moisturizer", "Lip Balm", "Cotton Balls", "Q-Tips", "Perfume",
+            "Hair Straightener", "Makeup", "Bathrobe"
+          ]
+        },
+        {
+          "id": 17,
+          "name": "DIY Tools",
+          "items": [
+            "Hammer", "Screwdriver Set", "Wrenches", "Pliers", "Tape Measure", "Utility Knife",
+            "Drill", "Saw", "Level", "Nails", "Screws", "Wood Glue", "Paint Brushes",
+            "Sandpaper", "Toolbox", "Workbench", "Safety Goggles", "Work Gloves",
+            "Masking Tape", "Extension Cord"
+          ]
+        },
+        {
+          "id": 18,
+          "name": "Party Supplies",
+          "items": [
+            "Balloons", "Party Hats", "Streamers", "Confetti", "Party Invitations", "Tableware",
+            "Candles", "Party Favors", "Napkins", "Plastic Cups", "Paper Plates",
+            "Serving Trays", "Party Games", "Cake Decorations", "Tablecloth", "Party Lights",
+            "Decorative Banners", "Pinata", "Party Bags", "Party Horns"
+          ]
+        },
+        {
+          "id": 19,
+          "name": "Camping Gear",
+          "items": [
+            "Tent", "Sleeping Bag", "Camping Stove", "Lantern", "Flashlight", "Camping Chair",
+            "Backpack", "Sleeping Pad", "Camping Cooler", "Water Filter", "Camping Utensils",
+            "First Aid Kit", "Fire Starter", "Portable Grill", "Camping Knife", "Headlamp",
+            "Binoculars", "Camping Table", "Hiking Boots", "Insect Repellent"
+          ]
+        },
+        {
+          "id": 20,
+          "name": "Sports Equipment",
+          "items": [
+            "Soccer Ball", "Basketball", "Tennis Racket", "Baseball Bat", "Golf Clubs",
+            "Hockey Stick", "Football", "Volleyball", "Swimming Goggles", "Skateboard",
+            "Bicycle", "Running Shoes", "Yoga Mat", "Jump Rope", "Dumbbells", "Kettlebell",
+            "Resistance Bands", "Exercise Ball", "Boxing Gloves", "Fitness Tracker"
+          ]
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Groceries",
+      "icon": "🛒"
+    },
+    {
+      "id": 2,
+      "name": "Office Supplies",
+      "icon": "📎"
+    },
+    {
+      "id": 3,
+      "name": "Cleaning Products",
+      "icon": "🧹"
+    },
+    {
+      "id": 4,
+      "name": "Electronics",
+      "icon": "💻"
+    },
+    {
+      "id": 5,
+      "name": "Books",
+      "icon": "📚"
+    },
+    {
+      "id": 6,
+      "name": "Gardening Supplies",
+      "icon": "🌱"
+    },
+    {
+      "id": 7,
+      "name": "Pet Supplies",
+      "icon": "🐾"
+    },
+    {
+      "id": 8,
+      "name": "Health & Wellness",
+      "icon": "💊"
+    },
+    {
+      "id": 9,
+      "name": "Fitness",
+      "icon": "🏋️‍♂️"
+    },
+    {
+      "id": 10,
+      "name": "Kitchen Gadgets",
+      "icon": "🍴"
+    },
+    {
+      "id": 11,
+      "name": "Toys",
+      "icon": "🧸"
+    },
+    {
+      "id": 12,
+      "name": "Office Furniture",
+      "icon": "🪑"
+    },
+    {
+      "id": 13,
+      "name": "Travel Essentials",
+      "icon": "🧳"
+    },
+    {
+      "id": 14,
+      "name": "Arts & Crafts",
+      "icon": "🎨"
+    },
+    {
+      "id": 15,
+      "name": "Seasonal Decor",
+      "icon": "🎄"
+    },
+    {
+      "id": 16,
+      "name": "Personal Care",
+      "icon": "🧼"
+    },
+    {
+      "id": 17,
+      "name": "DIY Tools",
+      "icon": "🔧"
+    },
+    {
+      "id": 18,
+      "name": "Party Supplies",
+      "icon": "🎉"
+    },
+    {
+      "id": 19,
+      "name": "Camping Gear",
+      "icon": "⛺"
+    },
+    {
+      "id": 20,
+      "name": "Sports Equipment",
+      "icon": "⚽"
+    }
+  ]
+}

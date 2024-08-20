@@ -1,0 +1,46 @@
+.listCrudPopup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: white;
+    border: 1px solid #ddd;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    z-index: 1000;
+  }
+  
+  .closeButton {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: transparent;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+  .listCrudPopup h2 {
+    margin-top: 0;
+  }
+  
+  .listCrudPopup input {
+    margin-right: 10px;
+  }
+  
+  .listCrudPopup button {
+    margin-top: 10px;
+  }
+  
+  .listCrudPopup ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .listCrudPopup li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5px;
+  }
+  

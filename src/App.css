@@ -1,0 +1,51 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+::selection{
+  background: #173246;
+  color: rgb(193, 193, 193);
+}
+.some{
+  color: #173246;
+}
+::-webkit-scrollbar{
+  width: 8px;
+}
+::-webkit-scrollbar-thumb{
+  background: #173246;
+  border-radius: 10px;
+}
+body{
+  height: 100vh;
+}
+.Wrapper2{
+  background: whitesmoke;
+  width: 100%;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  height: 100vh;
+  width: 100%;
+}
+
+.leftContainer{
+  background-image: url(/public/pikaso_texttoimage_a-shopping-list-displayed-on-a-kitchen-counter-wit.jpeg);
+  background-repeat: no-repeat;
+  background-position: cover;
+  background-size: cover;
+  padding: 20px;
+  width: 100%;
+  height: 100vh;
+}
+.rightContainer{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  width: 100%;
+  height: 100vh;
+}
